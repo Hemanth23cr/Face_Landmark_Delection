@@ -25,7 +25,7 @@ Face part extraction (i.e., nose, eyes, mouth, jawline, etc.) Facial alignment H
      pip install dlib
      
 
-## DAT.file
+## Download the DAT.file using below link
 
  *  http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2
  
